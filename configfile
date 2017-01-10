@@ -2,3 +2,5 @@ go get github.com/astaxie/beego
 go get github.com/beego/bee
  将 bee 自动创建的bee可自行文件，copy到 usr/local/go/bin 中，次文件夹是是goroot文件夹，存放go的可执行文件。
  这样也就可以用bee命令了。
+
+~/.bash_profile 配置当前用户的环境变量。
