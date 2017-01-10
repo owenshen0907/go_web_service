@@ -4,3 +4,5 @@ go get github.com/beego/bee
  这样也就可以用bee命令了。
 
 ~/.bash_profile 配置当前用户的环境变量。
+
+liteIDE可以通过查看环境配置设置环境变量
